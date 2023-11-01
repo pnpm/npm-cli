@@ -1,5 +1,5 @@
 {
-  "name": "@npmcli/arborist",
+  "name": "@pnpm/arborist__fork",
   "version": "7.2.1",
   "description": "Manage node_modules trees",
   "dependencies": {
