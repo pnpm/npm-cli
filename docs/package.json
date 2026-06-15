@@ -22,10 +22,10 @@
   "devDependencies": {
     "@isaacs/string-locale-compare": "^1.1.0",
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.19.0",
+    "@npmcli/template-oss": "4.30.0",
     "front-matter": "^4.0.2",
     "ignore-walk": "^6.0.1",
-    "jsdom": "^21.1.0",
+    "jsdom": "^29.1.1",
     "rehype-stringify": "^9.0.3",
     "remark-gfm": "^3.0.1",
     "remark-man": "^8.0.1",
