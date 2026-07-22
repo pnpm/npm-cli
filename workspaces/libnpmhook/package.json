@@ -31,11 +31,11 @@
   "license": "ISC",
   "dependencies": {
     "aproba": "^2.0.0",
-    "npm-registry-fetch": "^16.0.0"
+    "npm-registry-fetch": "^20.0.1"
   },
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.0",
-    "@npmcli/template-oss": "4.19.0",
+    "@npmcli/template-oss": "4.30.0",
     "nock": "^13.3.3",
     "tap": "^16.3.8"
   },
